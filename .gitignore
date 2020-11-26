@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# ASSETS PACK
+Content/ParagonRampage
+Content/ParagonMinions
+Content/ParagonWraith
+Content/StarterContent
